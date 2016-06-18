@@ -7,6 +7,6 @@ PHP版本可以发送消息的qq机器人,基于webqq,http://w.qq.com
 ###
 特别感谢
 
-Ruby:https://github.com/ScienJus/qqbot
+Ruby版本:https://github.com/ScienJus/qqbot
 
 
